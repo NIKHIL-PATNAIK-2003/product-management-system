@@ -1,0 +1,52 @@
+Folder PATH listing for volume New Volume
+Volume serial number is E0A5-D188
+F:.
+³   ok.txt
+³   structure.txt
+³   
+ÃÄÄÄapp
+³   ³   .env
+³   ³   favicon.ico
+³   ³   firebase.config.js
+³   ³   globals.css
+³   ³   layout.js
+³   ³   page.js
+³   ³   setCanvasPreview.js
+³   ³   
+³   ÃÄÄÄapi
+³   ³   ÀÄÄÄtopics
+³   ³           route.js
+³   ³           
+³   ÃÄÄÄComponents
+³   ³       CloseIcon.jsx
+³   ³       ImageCropper.css
+³   ³       ProductDetails.jsx
+³   ³       
+³   ÃÄÄÄfonts
+³   ³       GeistMonoVF.woff
+³   ³       GeistVF.woff
+³   ³       
+³   ÃÄÄÄlibs
+³   ³       mongodb.js
+³   ³       
+³   ÀÄÄÄy
+³       ÀÄÄÄx
+³               reviewRequest.js
+³               
+ÃÄÄÄcomponents
+³   ÃÄÄÄcomponent
+³   ³       component.jsx
+³   ³       
+³   ÀÄÄÄui
+³           button.jsx
+³           card.jsx
+³           input.jsx
+³           label.jsx
+³           
+ÃÄÄÄlib
+³       utils.js
+³       
+ÀÄÄÄmodels
+        products.js
+        reviews.js
+        
